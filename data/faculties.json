@@ -1,0 +1,782 @@
+{
+    "universities": {
+      "10": {
+        "学部": [
+          {
+            "id": "4947",
+            "name_jp": "医学部",
+            "url": "2024-12-27 21:33:34",
+            "admission_url": "https://www.med.tohoku.ac.jp/admission/medical/",
+            "created_at": "https://www.med.tohoku.ac.jp/za",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4948",
+            "name_jp": "教育学部",
+            "url": "2024-12-27 12:33:34",
+            "admission_url": "https://www.tohoku.ac.jp/japanese/admissions/education/",
+            "created_at": "https://www.sed.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4949",
+            "name_jp": "歯学部",
+            "url": "2024-12-27 12:33:35",
+            "admission_url": "https://www.dent.tohoku.ac.jp/examinate/undergraduate/entrance/index.html",
+            "created_at": "https://www.dent.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4950",
+            "name_jp": "法学部",
+            "url": "2024-12-27 12:33:35",
+            "admission_url": "https://www.law.tohoku.ac.jp/education/ed_admission/",
+            "created_at": "https://www.law.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4951",
+            "name_jp": "工学部",
+            "url": "2024-12-27 12:33:35",
+            "admission_url": "https://www.eng.tohoku.ac.jp/admission/ugrad/exam.html",
+            "created_at": "https://www.eng.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4952",
+            "name_jp": "経済学部",
+            "url": "2024-12-27 12:33:35",
+            "admission_url": "https://www.econ.tohoku.ac.jp/examination/under-ex/entrance",
+            "created_at": "https://www.econ.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4953",
+            "name_jp": "文学部",
+            "url": "2024-12-27 12:33:36",
+            "admission_url": "https://www.sal.tohoku.ac.jp/jp/admissions/",
+            "created_at": "https://www.sal.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4954",
+            "name_jp": "農学部",
+            "url": "2024-12-27 12:33:36",
+            "admission_url": "https://www.agri.tohoku.ac.jp/jp/education/admission/exam_faculty/",
+            "created_at": "https://www.agri.tohoku.ac.jp/jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4955",
+            "name_jp": "薬学部",
+            "url": "2024-12-27 12:33:36",
+            "admission_url": "http://www.pharm.tohoku.ac.jp/jukensei/annai_g/",
+            "created_at": "http://www.pharm.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4956",
+            "name_jp": "理学部",
+            "url": "2024-12-27 12:33:36",
+            "admission_url": "https://www.sci.tohoku.ac.jp/juken/gakubu.html",
+            "created_at": "https://www.sci.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          }
+        ],
+        "研究科": [
+          {
+            "id": "4957",
+            "name_jp": "経済学研究科",
+            "url": "2024-12-27 12:33:37",
+            "admission_url": "https://www.econ.tohoku.ac.jp/examination",
+            "created_at": "https://www.econ.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4958",
+            "name_jp": "理学研究科",
+            "url": "2024-12-27 12:33:37",
+            "admission_url": "https://www.sci.tohoku.ac.jp/juken/graduate-admission.html",
+            "created_at": "https://www.sci.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4959",
+            "name_jp": "薬学研究科",
+            "url": "2024-12-27 12:33:37",
+            "admission_url": "http://www.pharm.tohoku.ac.jp/jukensei/annai-d/",
+            "created_at": "None",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4960",
+            "name_jp": "工学研究科",
+            "url": "2024-12-27 12:33:37",
+            "admission_url": "https://www.eng.tohoku.ac.jp/admission/",
+            "created_at": "https://www.eng.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4961",
+            "name_jp": "生命科学研究科",
+            "url": "2024-12-27 12:33:38",
+            "admission_url": "https://www.lifesci.tohoku.ac.jp/admission/",
+            "created_at": "https://www.lifesci.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4962",
+            "name_jp": "医学系研究科",
+            "url": "2024-12-27 12:33:38",
+            "admission_url": "https://www.med.tohoku.ac.jp/admission/grad/",
+            "created_at": "https://www.med.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4963",
+            "name_jp": "歯学研究科",
+            "url": "2024-12-27 12:33:38",
+            "admission_url": "https://www.dent.tohoku.ac.jp/examinate/graduate/index.html",
+            "created_at": "https://www.dent.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4964",
+            "name_jp": "情報科学研究科",
+            "url": "2024-12-27 12:33:38",
+            "admission_url": "https://www.is.tohoku.ac.jp/jp/entrance/exam.html",
+            "created_at": "https://www.is.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4965",
+            "name_jp": "環境科学研究科",
+            "url": "2024-12-27 12:33:39",
+            "admission_url": "https://www.kankyo.tohoku.ac.jp/newstudent/",
+            "created_at": "https://www.kankyo.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4966",
+            "name_jp": "教育学研究科",
+            "url": "2024-12-27 12:33:39",
+            "admission_url": "https://www.sed.tohoku.ac.jp/admissions/",
+            "created_at": "https://www.sed.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4967",
+            "name_jp": "文学研究科",
+            "url": "2024-12-27 12:33:39",
+            "admission_url": "https://www.sal.tohoku.ac.jp/jp/admissions/grad/",
+            "created_at": "https://www.sal.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4968",
+            "name_jp": "医工学研究科",
+            "url": "2024-12-27 12:33:39",
+            "admission_url": "https://www.bme.tohoku.ac.jp/admission/",
+            "created_at": "https://www.bme.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4969",
+            "name_jp": "農学研究科",
+            "url": "2024-12-27 12:33:39",
+            "admission_url": "https://www.agri.tohoku.ac.jp/jp/education/admission/exam_graduate/",
+            "created_at": "https://www.agri.tohoku.ac.jp/jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4970",
+            "name_jp": "国際文化研究科",
+            "url": "2024-12-27 12:33:40",
+            "admission_url": "https://www.intcul.tohoku.ac.jp/service_category/admissions/",
+            "created_at": "https://www.intcul.tohoku.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "4971",
+            "name_jp": "法学研究科",
+            "url": "2024-12-27 12:33:40",
+            "admission_url": "https://www.law.tohoku.ac.jp/graduate/gr_admission/",
+            "created_at": "https://www.law.tohoku.ac.jp/graduate/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          }
+        ]
+      },
+      "22": {
+        "学部": [
+          {
+            "id": "5078",
+            "name_jp": "医学部",
+            "url": "2024-12-27 12:34:19",
+            "admission_url": "https://www.m.u-tokyo.ac.jp/daigakuin/apply/index.html",
+            "created_at": "https://www.m.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5079",
+            "name_jp": "工学部",
+            "url": "2024-12-27 12:34:20",
+            "admission_url": "https://www.t.u-tokyo.ac.jp/soe/admission/general",
+            "created_at": "https://www.t.u-tokyo.ac.jp/foe",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5080",
+            "name_jp": "教育学部",
+            "url": "2024-12-27 12:34:20",
+            "admission_url": "https://www.p.u-tokyo.ac.jp/entrance/bachelor",
+            "created_at": "https://www.p.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5081",
+            "name_jp": "法学部",
+            "url": "2024-12-27 12:34:20",
+            "admission_url": "https://www.j.u-tokyo.ac.jp/undergraduate/admission/",
+            "created_at": "https://www.j.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5082",
+            "name_jp": "教養学部",
+            "url": "2024-12-27 12:34:20",
+            "admission_url": "https://www.c.u-tokyo.ac.jp/admission/index.html",
+            "created_at": "https://www.c.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5083",
+            "name_jp": "文学部",
+            "url": "2024-12-27 12:34:21",
+            "admission_url": "https://www.l.u-tokyo.ac.jp/applicant/index.html",
+            "created_at": "https://www.l.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5084",
+            "name_jp": "経済学部",
+            "url": "2024-12-27 12:34:21",
+            "admission_url": "https://www.student.e.u-tokyo.ac.jp/nyushingaku-index.html",
+            "created_at": "https://www.e.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5085",
+            "name_jp": "農学部",
+            "url": "2024-12-27 12:34:21",
+            "admission_url": "https://www.a.u-tokyo.ac.jp/grad/grad_applicants2.html",
+            "created_at": "https://www.a.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5086",
+            "name_jp": "薬学部",
+            "url": "2024-12-27 12:34:21",
+            "admission_url": "https://www.f.u-tokyo.ac.jp/exam/",
+            "created_at": "https://www.f.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5087",
+            "name_jp": "理学部",
+            "url": "2024-12-27 12:34:22",
+            "admission_url": "https://www.s.u-tokyo.ac.jp/ja/admission/master/",
+            "created_at": "https://www.s.u-tokyo.ac.jp/ja/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          }
+        ],
+        "研究科": [
+          {
+            "id": "5088",
+            "name_jp": "経済学研究科",
+            "url": "2024-12-27 12:34:22",
+            "admission_url": "https://www.student.e.u-tokyo.ac.jp/grad/m-nyushi.html",
+            "created_at": "https://www.e.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5089",
+            "name_jp": "薬学系研究科",
+            "url": "2024-12-27 12:34:22",
+            "admission_url": "https://www.f.u-tokyo.ac.jp/exam/index.html?key=1377737595",
+            "created_at": "https://www.f.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5090",
+            "name_jp": "工学系研究科",
+            "url": "2024-12-27 12:34:22",
+            "admission_url": "https://www.t.u-tokyo.ac.jp/soe/admission",
+            "created_at": "https://www.t.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5091",
+            "name_jp": "公共政策学教育部",
+            "url": "2024-12-27 12:34:23",
+            "admission_url": "https://www.pp.u-tokyo.ac.jp/admissions/master-course-admissions/",
+            "created_at": "https://www.pp.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5092",
+            "name_jp": "数理科学研究科",
+            "url": "2024-12-27 12:34:23",
+            "admission_url": "https://www.ms.u-tokyo.ac.jp/kyoumu/examination.html",
+            "created_at": "https://www.ms.u-tokyo.ac.jp/index-j.html",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5093",
+            "name_jp": "理学系研究科",
+            "url": "2024-12-27 12:34:23",
+            "admission_url": "https://www.s.u-tokyo.ac.jp/ja/admission/master/",
+            "created_at": "https://www.s.u-tokyo.ac.jp/ja/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5094",
+            "name_jp": "法学政治学研究科",
+            "url": "2024-12-27 12:34:23",
+            "admission_url": "https://www.j.u-tokyo.ac.jp/graduate/admission/master/",
+            "created_at": "https://www.j.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5095",
+            "name_jp": "新領域創成科学研究科",
+            "url": "2024-12-27 12:34:24",
+            "admission_url": "https://www.k.u-tokyo.ac.jp/exam/info/",
+            "created_at": "https://www.k.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5096",
+            "name_jp": "情報理工学系研究科",
+            "url": "2024-12-27 12:34:24",
+            "admission_url": "https://www.i.u-tokyo.ac.jp/edu/entra/index.shtml",
+            "created_at": "https://www.i.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5097",
+            "name_jp": "医学系研究科",
+            "url": "2024-12-27 12:34:24",
+            "admission_url": "https://www.m.u-tokyo.ac.jp/daigakuin/apply/appguidemain.html",
+            "created_at": "https://www.m.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5098",
+            "name_jp": "学際情報学府",
+            "url": "2024-12-27 12:34:24",
+            "admission_url": "https://www.iii.u-tokyo.ac.jp/admissions",
+            "created_at": "https://www.iii.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5099",
+            "name_jp": "教育学研究科",
+            "url": "2024-12-27 12:34:25",
+            "admission_url": "https://www.p.u-tokyo.ac.jp/entrance/graduate",
+            "created_at": "https://www.p.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5100",
+            "name_jp": "総合文化研究科",
+            "url": "2024-12-27 12:34:25",
+            "admission_url": "https://www.c.u-tokyo.ac.jp/admission/graduateschool/index.html",
+            "created_at": "https://www.c.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5101",
+            "name_jp": "人文社会系研究科",
+            "url": "2024-12-27 12:34:25",
+            "admission_url": "https://www.l.u-tokyo.ac.jp/graduateschool/appgb.html",
+            "created_at": "https://www.l.u-tokyo.ac.jp/postgraduate/index.html",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5102",
+            "name_jp": "農学生命科学研究科",
+            "url": "2024-12-27 12:34:25",
+            "admission_url": "https://www.a.u-tokyo.ac.jp/grad/grad_applicants2.html",
+            "created_at": "https://www.a.u-tokyo.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          }
+        ]
+      },
+      "55": {
+        "学部": [
+          {
+            "id": "5345",
+            "name_jp": "医学部",
+            "url": "2024-12-27 12:35:24",
+            "admission_url": "https://www.med.osaka-u.ac.jp/admission/admission",
+            "created_at": "https://www.med.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5346",
+            "name_jp": "理学部",
+            "url": "2024-12-27 12:35:25",
+            "admission_url": "https://www.sci.osaka-u.ac.jp/ja/admissions/admissions_u/",
+            "created_at": "https://www.sci.osaka-u.ac.jp/ja/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5347",
+            "name_jp": "歯学部",
+            "url": "2024-12-27 12:35:25",
+            "admission_url": "https://www.dent.osaka-u.ac.jp/admissions/undergraduate",
+            "created_at": "https://www.dent.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5348",
+            "name_jp": "工学部",
+            "url": "2024-12-27 12:35:25",
+            "admission_url": "https://www.eng.osaka-u.ac.jp/ja/entrance/ug_admissions/",
+            "created_at": "https://www.eng.osaka-u.ac.jp/ja/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5349",
+            "name_jp": "外国語学部",
+            "url": "2024-12-27 12:35:25",
+            "admission_url": "https://www.sfs.osaka-u.ac.jp/admission/a_fs_info.html",
+            "created_at": "https://www.sfs.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5350",
+            "name_jp": "法学部",
+            "url": "2024-12-27 12:35:26",
+            "admission_url": "https://www.osaka-u.ac.jp/ja/admissions/law",
+            "created_at": "https://www.law.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5351",
+            "name_jp": "基礎工学部",
+            "url": "2024-12-27 12:35:26",
+            "admission_url": "https://www.es.osaka-u.ac.jp/ja/examinee/",
+            "created_at": "https://www.es.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5352",
+            "name_jp": "経済学部",
+            "url": "2024-12-27 12:35:26",
+            "admission_url": "https://www.econ.osaka-u.ac.jp/admission/",
+            "created_at": "https://www.econ.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5353",
+            "name_jp": "文学部",
+            "url": "2024-12-27 12:35:26",
+            "admission_url": "https://www.let.osaka-u.ac.jp/ja/admissions",
+            "created_at": "https://www.let.osaka-u.ac.jp/ja",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5354",
+            "name_jp": "薬学部",
+            "url": "2024-12-27 12:35:27",
+            "admission_url": "https://www.phs.osaka-u.ac.jp/prospective/g_admissions.html",
+            "created_at": "https://www.phs.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5355",
+            "name_jp": "人間科学部",
+            "url": "2024-12-27 12:35:27",
+            "admission_url": "https://www.hus.osaka-u.ac.jp/ja/applicants_for_undergraduate/admission.html",
+            "created_at": "None",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          }
+        ],
+        "研究科": [
+          {
+            "id": "5356",
+            "name_jp": "経済学研究科",
+            "url": "2024-12-27 12:35:27",
+            "admission_url": "https://www.econ.osaka-u.ac.jp/admission/",
+            "created_at": "https://www.econ.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5357",
+            "name_jp": "基礎工学研究科",
+            "url": "2024-12-27 12:35:27",
+            "admission_url": "https://www.es.osaka-u.ac.jp/ja/examinee/graduate-school-of-engineering-science/entrance-exam/",
+            "created_at": "https://www.es.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5358",
+            "name_jp": "理学研究科",
+            "url": "2024-12-27 12:35:28",
+            "admission_url": "https://www.sci.osaka-u.ac.jp/ja/admissions/admissions_d/",
+            "created_at": "https://www.sci.osaka-u.ac.jp/ja/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5359",
+            "name_jp": "薬学研究科",
+            "url": "2024-12-27 12:35:28",
+            "admission_url": "https://www.phs.osaka-u.ac.jp/prospective/g_admissions.html",
+            "created_at": "https://www.phs.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5360",
+            "name_jp": "人文学研究科",
+            "url": "2024-12-27 12:35:28",
+            "admission_url": "https://www.hmt.osaka-u.ac.jp/exam/guide/",
+            "created_at": "https://www.hmt.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5361",
+            "name_jp": "工学研究科",
+            "url": "2024-12-27 12:35:28",
+            "admission_url": "https://www.eng.osaka-u.ac.jp/ja/entrance/g_admissions/",
+            "created_at": "https://www.eng.osaka-u.ac.jp/ja/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5362",
+            "name_jp": "医学系研究科",
+            "url": "2024-12-27 12:35:29",
+            "admission_url": "https://www.med.osaka-u.ac.jp/admission/admission",
+            "created_at": "https://www.med.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5363",
+            "name_jp": "国際公共政策研究科",
+            "url": "2024-12-27 12:35:29",
+            "admission_url": "https://www.osipp.osaka-u.ac.jp/ja/admission/admission-information/",
+            "created_at": "https://www.osipp.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5364",
+            "name_jp": "生命機能研究科",
+            "url": "2024-12-27 12:35:29",
+            "admission_url": "https://www.fbs.osaka-u.ac.jp/ja/application/",
+            "created_at": "https://www.fbs.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5365",
+            "name_jp": "歯学研究科",
+            "url": "2024-12-27 12:35:29",
+            "admission_url": "https://www.dent.osaka-u.ac.jp/admissions/doctor",
+            "created_at": "https://www.dent.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5366",
+            "name_jp": "情報科学研究科",
+            "url": "2024-12-27 12:35:30",
+            "admission_url": "https://www.ist.osaka-u.ac.jp/japanese/examinees/admission/",
+            "created_at": "None",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5367",
+            "name_jp": "人間科学研究科",
+            "url": "2024-12-27 12:35:30",
+            "admission_url": "https://www.hus.osaka-u.ac.jp/ja/applicants_for_graduate/admission.html",
+            "created_at": "http://www.hus.osaka-u.ac.jp/ja/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5368",
+            "name_jp": "大阪大学・金沢大学・浜松医科大学・千葉大学・福井大学連合小児発達学研究科",
+            "url": "2024-12-27 12:35:30",
+            "admission_url": "http://www.ugscd.osaka-u.ac.jp/admission/",
+            "created_at": "None",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5369",
+            "name_jp": "高等司法研究科",
+            "url": "2024-12-27 12:35:30",
+            "admission_url": "https://www.lawschool.osaka-u.ac.jp/entrance/guide.html",
+            "created_at": "https://www.lawschool.osaka-u.ac.jp/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          },
+          {
+            "id": "5370",
+            "name_jp": "法学研究科",
+            "url": "2024-12-27 12:35:31",
+            "admission_url": "https://www.law.osaka-u.ac.jp/graduate/entrance/info.html",
+            "created_at": "https://www.law.osaka-u.ac.jp/graduate/",
+            "need_to_update": "0",
+            "admission_need_to_update": "0",
+            "need_to_crawl": "0"
+          }
+        ]
+      }
+    }
+  }
